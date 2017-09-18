@@ -1,2 +1,2 @@
-FROM nginx:1.13.5
+FROM nginx:latest
 COPY index.html /usr/share/nginx/html/index.html
